@@ -1,0 +1,10 @@
+@inbook{10.7312/saus15726.8,
+ URL = {http://www.jstor.org/stable/10.7312/saus15726.8},
+ author = {Ferdinand de Saussure and Wade Baskin},
+ booktitle = {Course in General Linguistics: Translated by Wade Baskin. Edited by Perry Meisel and Haun Saussy},
+ pages = {1--37},
+ publisher = {Columbia University Press},
+ title = {INTRODUCTION},
+ year = {2011}
+}
+

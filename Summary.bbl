@@ -1,0 +1,26 @@
+\begin{thebibliography}{}
+
+\bibitem[Chomsky, 1956]{Chomsky1956}
+Chomsky, N. (1956).
+\newblock Three models for the description of language.
+\newblock {\em IRE Transactions on Information Theory}, 2:113--124.
+
+\bibitem[Janssen, 2015]{sep-montague}
+Janssen, T. M.~V. (2015).
+\newblock Montague semantics.
+\newblock In Zalta, E.~N., editor, {\em The Stanford encyclopedia of
+  philosophy}. 2020 ed. edition.
+
+\bibitem[Mikolov et~al., 2013]{mikolov2013}
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G.~S., and Dean, J. (2013).
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em NIPS}, pages 3111--3119. Curran Associates, Inc.
+
+\bibitem[Pietroski, 2015]{sep-logicalform}
+Pietroski, P. (2015).
+\newblock Logical form.
+\newblock In Pietroski, P., editor, {\em The Stanford encyclopedia of
+  philosophy}. 2015 ed. edition.
+
+\end{thebibliography}
